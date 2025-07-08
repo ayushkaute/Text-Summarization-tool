@@ -12,6 +12,9 @@
 
 *MENTOR: NEELA SANTOSH
 
+OUTPUT:
+<img width="1532" height="503" alt="Image" src="https://github.com/user-attachments/assets/29a60e21-d671-40d9-b3a4-e4c096af7b31" />
+
 Description:
 The provided Python script uses a pre-trained transformer-based model to summarize long text into a concise, coherent summary. This is a common task in Natural Language Processing (NLP) called abstractive text summarization. Unlike extractive summarization (which picks sentences from the original), abstractive models generate completely new sentences based on the original context.
 
@@ -74,3 +77,5 @@ Scalability: Can be used on long articles, reports, and documents.
 
 ✅ Conclusion
 In summary, this Python script demonstrates how to perform abstractive text summarization using a pre-trained model (facebook/bart-large-cnn) from Hugging Face Transformers. With just a few lines of code, you can reduce long paragraphs into short, meaningful summaries. This is useful for news apps, academic research tools, content curation, and more. The pipeline abstraction allows non-experts to leverage state-of-the-art NLP without worrying about the underlying architecture.
+
+
